@@ -1,0 +1,17 @@
+{
+    "prefix": "-", //command prefix
+    "vms": [
+        {
+            "url": "wss://computernewb.com/collab-vm/vm0",
+            "nodeId": "vm0b0t"
+        }
+    ],
+    "authType": "password", //or token
+    "adminPassword": "",
+    "botToken": "",
+    "loginAs": "admin",
+    "username": "EmojiBot",
+    "emojilistUrl": "http://emojibot.com/emojibot/emojilist.json",
+    //wether to use :emoji_name: format for emojis
+    "colonEmoji": true
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "smile",
+    "file": "http://enixnet.com/emojibot/smile.png",
+    "description": "A smiling face"
+  },
+  {
+    "name": "sad",
+    "file": "http://enixnet.com/emojibot/sad.png",
+    "description": "A sad face"
+  },
+  {
+    "name": "thumbsup",
+    "file": "http://enixnet.com/emojibot/thumbsup.png",
+    "description": "A thumbs up"
+  }
+]

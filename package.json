@@ -1,0 +1,19 @@
+{
+  "name": "emojibot",
+  "version": "1.0.0",
+  "description": "A CollabVM bot that responds to emoji commands.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "serve": "node dist/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.13.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
